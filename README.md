@@ -2,10 +2,6 @@
 
 An interactive **Power BI dashboard** designed to analyze Uber trip data and uncover insights into bookings, revenue, distance, vehicle performance, locations, and customer activity.
 
-## 📊 Dashboard Preview
-
-![Uber Dashboard Overview](Overview.jpeg)
-
 ## 📌 Project Overview
 
 The **Uber Data Analytics Dashboard** transforms Uber trip data into an interactive business intelligence dashboard.
@@ -47,6 +43,9 @@ The Home page provides an introduction to the Uber Data Analytics project and na
 ### 📊 Overview
 
 The Overview page provides the main interactive analysis of Uber trips and business performance.
+
+![Uber Dashboard Overview](Overview.jpeg)
+
 
 It includes:
 
