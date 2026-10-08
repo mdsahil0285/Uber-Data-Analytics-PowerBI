@@ -10,11 +10,21 @@ An interactive **Power BI dashboard** designed to analyze Uber trip data and unc
 
 The **Uber Data Analytics Dashboard** transforms Uber trip data into an interactive business intelligence dashboard.
 
-It provides a clear view of booking performance, revenue trends, vehicle performance, trip distance, locations, and customer and driver ratings.
+The dashboard provides a clear view of:
+
+* Booking performance
+* Revenue trends
+* Vehicle performance
+* Trip distance
+* Pickup and drop locations
+* Customer ratings
+* Driver ratings
+
+The dashboard is designed to help users explore Uber trip performance and identify important business patterns.
 
 ## 🎯 Key KPIs
 
-The dashboard focuses on important business metrics including:
+The dashboard tracks the following key performance indicators:
 
 * **Completed Bookings**
 * **Lost Bookings**
@@ -24,17 +34,21 @@ The dashboard focuses on important business metrics including:
 * **Booking Completion Rate**
 * **Revenue per Booking**
 
-## 🏠 Home Page
+## 📑 Dashboard Pages
 
-The Home page introduces the project and provides navigation to the main dashboard.
+This Power BI project contains **two pages**:
+
+### 🏠 Home
+
+The Home page provides an introduction to the Uber Data Analytics project and navigation to the main dashboard.
 
 ![Uber Dashboard Home](Home.jpeg)
 
-## 📈 Overview Dashboard
+### 📊 Overview
 
-The Overview page provides an interactive analysis of Uber trips and business performance.
+The Overview page provides the main interactive analysis of Uber trips and business performance.
 
-### Main Analysis
+It includes:
 
 * Bookings by month
 * Revenue by month
@@ -58,7 +72,7 @@ The vehicle selector allows users to explore performance across different vehicl
 
 ## 💡 Business Questions
 
-This dashboard helps answer questions such as:
+This dashboard helps answer important business questions such as:
 
 1. How many bookings were completed?
 2. How many bookings were lost?
@@ -72,6 +86,17 @@ This dashboard helps answer questions such as:
 10. What is the average revenue per completed booking?
 11. How do customer and driver ratings compare?
 
+## 📈 Key Analysis
+
+The dashboard can be used to identify:
+
+* Revenue contribution by vehicle type
+* Monthly booking and revenue patterns
+* High-demand pickup and drop locations
+* Booking completion performance
+* Average revenue per completed booking
+* Customer and driver rating patterns
+
 ## 📂 Project Files
 
 | File                       | Description                    |
@@ -79,13 +104,15 @@ This dashboard helps answer questions such as:
 | `Uber Data Analytics.pbix` | Interactive Power BI dashboard |
 | `Overview.jpeg`            | Overview dashboard screenshot  |
 | `Home.jpeg`                | Home page screenshot           |
+| `README.md`                | Project documentation          |
 
 ## 🚀 How to Use
 
-1. Download the `.pbix` file from this repository.
-2. Open it using **Power BI Desktop**.
-3. Explore the Home and Overview pages.
-4. Use the vehicle selectors and interactive visuals to analyze the data.
+1. Download the **`Uber Data Analytics.pbix`** file from this repository.
+2. Open the file using **Power BI Desktop**.
+3. Start from the **Home** page.
+4. Navigate to the **Overview** page.
+5. Use the vehicle selectors and interactive visuals to explore the data.
 
 ## 👨‍💻 Author
 
